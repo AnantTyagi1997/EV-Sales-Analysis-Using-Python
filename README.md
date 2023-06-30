@@ -13,3 +13,9 @@ b. Price Analysis: Analyze the relationship between EV prices and sales volumes.
 Factors Influencing EV Sales:
 a. Charging Infrastructure: Analyze the relationship between the availability of charging infrastructure and EV sales. Identify regions with better-charging infrastructure and their impact on sales. Visualize this relationship using maps or scatter plots.
 b. Range and Battery Technology: Analyze the impact of EV range and battery technology advancements on sales. Explore the relationship between range and sales volumes. Visualize range-sales relationships using scatter plots or line charts. 
+
+These are the NBViewer Jupyter Notebooks link for all the notebooks. Some graphs or charts which are created using plotly library are supported by GitHub. Therefore, to check all the graphs please open these links.
+https://nbviewer.org/github/AnantTyagi1997/EV-Sales-Analysis-Using-Python/blob/main/Motor_Vehicle_VS_EV_CO2_Emission.ipynb
+https://nbviewer.org/github/AnantTyagi1997/EV-Sales-Analysis-Using-Python/blob/main/World_EV_Sales_Analysis.ipynb
+https://nbviewer.org/github/AnantTyagi1997/EV-Sales-Analysis-Using-Python/blob/main/USA_EV_POPULATION_DATA.ipynb
+https://nbviewer.org/github/AnantTyagi1997/EV-Sales-Analysis-Using-Python/blob/main/Car%20Model%2CBattery%20and%20Price%20Analysis.ipynb
